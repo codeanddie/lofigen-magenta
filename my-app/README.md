@@ -4,6 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Manual fix added
+```bash
+yarn cache clean
+rm -rf node_modules
+yarn install
+```
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
