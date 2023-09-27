@@ -8,6 +8,7 @@ In the project directory, you can run:
 ```bash
 yarn cache clean
 rm -rf node_modules
+yarn add react-scripts
 yarn install
 ```
 
